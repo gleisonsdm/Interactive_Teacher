@@ -23,7 +23,7 @@ Then, show a picture of it, and the translated word beside. Also shows a link to
 - Transforme speak into text.
 - Translate the text to the listner's language.
 - Allow the listner to hear in his language or the original audio.
-- Shows the text in a chat, in your language and in the translated version.
+- Shows the text in a chat, in your language and the translated version.
 
 ## Proposed API to use
 - Google Cloud Plataform Hackathon Toolkit - https://github.com/GoogleCloudPlatform/hackathon-toolkit
