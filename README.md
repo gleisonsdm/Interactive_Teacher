@@ -14,4 +14,5 @@ Then, show a picture of it, and the translated word besides. Also shows a link t
 - Spell the word based on a picture, the user select a picture, and it automatically spells the word associated with it.
 
 ## Proposed API to use
+- Google Cloud Plataform Hackathon Toolkit - https://github.com/GoogleCloudPlatform/hackathon-toolkit
 - API - https://github.com/GoogleCloudPlatform/hackathon-toolkit/blob/master/language/README.md
