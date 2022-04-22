@@ -10,7 +10,7 @@ Then, show a picture of it, and the translated word beside. Also shows a link to
 
 ### Second step
 - Create some activities based on the text automatically, such as conect words (present in the text) with images.
-- Translates the speaking into words, and show the pictures, to spell training.
+- Translates the speaking into words, and show the pictures, for pronunciation training.
 - Spell the word based on a picture, the user select a picture, and it automatically spells the word associated with it.
 
 ### Third step
