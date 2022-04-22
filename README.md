@@ -5,7 +5,7 @@ A project to help people to learn other languages using technology.
 
 ### First step
 - Upload a text in the language the person wants to learn.
-- Whenever the algorithm parser a substantive or adjective, highlight it.
+- Whenever the algorithm parser a substantive, verb or adjective, highlight it.
 - Then, show a picture of it, and the translated word beside. Also shows a link to the wikipedia, if any.
 
 ### Second step
