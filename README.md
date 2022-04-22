@@ -18,6 +18,13 @@ Then, show a picture of it, and the translated word beside. Also shows a link to
 - Create an exam to rank people due to their skills.
 - Sugest a collection of books, in order to improve the person skills.
 
+### Fourth step
+- Allow a videochat to training spekaing online.
+- Transforme speak into text.
+- Translate the text to the listner's language.
+- Allow the listner to hear in his language or the original audio.
+- Shows the text in a chat, in your language and in the translated version.
+
 ## Proposed API to use
 - Google Cloud Plataform Hackathon Toolkit - https://github.com/GoogleCloudPlatform/hackathon-toolkit
 - API - https://github.com/GoogleCloudPlatform/hackathon-toolkit/blob/master/language/README.md
