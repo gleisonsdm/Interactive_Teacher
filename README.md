@@ -27,7 +27,12 @@ A project to help people to learn other languages using technology.
 
 ## Proposed API to learn / use
 - Google Cloud Plataform Hackathon Toolkit - https://github.com/GoogleCloudPlatform/hackathon-toolkit
-- API - https://github.com/GoogleCloudPlatform/hackathon-toolkit/blob/master/language/README.md
+- Vision
+  - Hackathon API - https://github.com/GoogleCloudPlatform/hackathon-toolkit/tree/master/vision
+- Language
+  - Hackathon API - https://github.com/GoogleCloudPlatform/hackathon-toolkit/tree/master/language
+- Translate
+  - Hackathon API - https://github.com/GoogleCloudPlatform/hackathon-toolkit/tree/master/translate
 
 ## Reading Material
 - https://cloud.google.com/blog/products/gcp/building-an-image-search-application-using-cloud-vision-api (searching images for text excerpts)
