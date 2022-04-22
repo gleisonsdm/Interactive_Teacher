@@ -25,7 +25,7 @@ A project to help people to learn other languages using technology.
 - Allow the listner to hear in his language or the original audio.
 - Shows the text in a chat, in your language and the translated version.
 
-## Proposed API to use
+## Proposed API to learn / use
 - Google Cloud Plataform Hackathon Toolkit - https://github.com/GoogleCloudPlatform/hackathon-toolkit
 - API - https://github.com/GoogleCloudPlatform/hackathon-toolkit/blob/master/language/README.md
 
