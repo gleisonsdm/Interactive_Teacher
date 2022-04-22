@@ -1,29 +1,28 @@
 # Interactive Teacher
-A project to help people to learn other languages using technology.
+This software goal is to support studying foreign languages with Google Cloud APIs.
 
 ## Proposed Workflow
 
 ### First step
 - Upload a text in the language the person wants to learn.
-- Whenever the algorithm parser a substantive, verb or adjective, highlight it.
-- Then, show a picture of it, and the translated word beside. Also shows a link to the wikipedia, if any.
+- Whenever the algorithm parser a substantive, verb, or adjective, highlight it. It also will show a picture of the selected word and its translated version with a link to the Wikipedia document.
 
 ### Second step
-- Create some activities based on the text automatically, such as conect words (present in the text) with images.
-- Translates the speaking into words, and show the pictures, for pronunciation training.
-- Spell the word based on a picture, the user select a picture, and it automatically spells the word associated with it.
+- Create activities based on the text automatically, such as connecting words (present in the text) with images.
+- Translates the speaking into words and shows the respective images for pronunciation training.
+- Spell the word based on a picture, the user selects a picture, and it automatically spells the word associated with it.
 
 ### Third step
-- Select some texts and books to people use for free.
+- Select some texts and books for people to use without cost.
 - Create an exam to rank people due to their skills.
-- Sugest a collection of books, in order to improve the person skills.
+- Suggest a personalized collection of books to improve personal skills.
 
 ### Fourth step
-- Allow a videochat to training spekaing online.
-- Transforme speak into text.
+- Allow a video chat to train to speak online.
+- Transform speak into text.
 - Translate the text to the listener's language.
-- Allow the listner to hear in his language or the original audio.
-- Shows the text in a chat, in your language and the translated version.
+- Allow the listener to hear in his language or the original audio.
+- Shows the text in a chat, in your language, and the translated version.
 
 ## Proposed APIs to learn / use
 - Google Cloud Plataform Hackathon Toolkit - https://github.com/GoogleCloudPlatform/hackathon-toolkit
