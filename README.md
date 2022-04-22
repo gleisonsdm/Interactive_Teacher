@@ -6,7 +6,7 @@ A project to help people to learn other languages using technology.
 ### First step
 - Upload a text in the language the person wants to learn.
 - Whenever the algorithm parser a substantive or adjective, highlight it.
-Then, show a picture of it, and the translated word beside. Also shows a link to the wikipedia, if any.
+- Then, show a picture of it, and the translated word beside. Also shows a link to the wikipedia, if any.
 
 ### Second step
 - Create some activities based on the text automatically, such as conect words (present in the text) with images.
@@ -28,3 +28,8 @@ Then, show a picture of it, and the translated word beside. Also shows a link to
 ## Proposed API to use
 - Google Cloud Plataform Hackathon Toolkit - https://github.com/GoogleCloudPlatform/hackathon-toolkit
 - API - https://github.com/GoogleCloudPlatform/hackathon-toolkit/blob/master/language/README.md
+
+## Reading Material
+- https://cloud.google.com/blog/products/gcp/building-an-image-search-application-using-cloud-vision-api (searching images for text excerpts)
+- https://cloud.google.com/translate/docs (Translate text)
+- https://cloud.google.com/vision (Categorizing text)
