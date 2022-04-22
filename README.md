@@ -21,7 +21,7 @@ A project to help people to learn other languages using technology.
 ### Fourth step
 - Allow a videochat to training spekaing online.
 - Transforme speak into text.
-- Translate the text to the listner's language.
+- Translate the text to the listener's language.
 - Allow the listner to hear in his language or the original audio.
 - Shows the text in a chat, in your language and the translated version.
 
