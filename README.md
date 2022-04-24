@@ -18,7 +18,7 @@ This software goal is to support studying foreign languages with Google Cloud AP
 - Create an exam to rank people due to their skills.
 - Suggest a personalized collection of books to improve personal skills.
 
-### Fourth step
+### Fourth step - to think about
 - Allow a video chat to train to speak online.
 - Transform speak into text.
 - Translate the text to the listener's language.
