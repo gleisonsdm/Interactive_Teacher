@@ -5,12 +5,13 @@ This software goal is to support studying foreign languages with Google Cloud AP
 
 ### First step
 - Upload a text in the language the person wants to learn.
-- Whenever the algorithm parser a substantive, verb, or adjective, highlight it. It also will show a picture of the selected word and its translated version with a link to the Wikipedia document.
+- Whenever the algorithm parser a noun, verb, or adjective, highlight it. It also will show a picture of the selected word and its translated version with a link to the Wikipedia document.
 
 ### Second step
 - Create activities based on the text automatically, such as connecting words (present in the text) with images.
 - Translates the speaking into words and shows the respective images for pronunciation training.
 - Spell the word based on a picture, the user selects a picture, and it automatically spells the word associated with it.
+- Sort a noun present in the text, then a Create a Hunting words game based in the synonyms.
 
 ### Third step
 - Select some texts and books for people to use without cost.
