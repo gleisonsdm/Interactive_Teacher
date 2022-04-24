@@ -11,7 +11,7 @@ This software goal is to support studying foreign languages with Google Cloud AP
 - Create activities based on the text automatically, such as connecting words (present in the text) with images.
 - Translates the speaking into words and shows the respective images for pronunciation training.
 - Spell the word based on a picture, the user selects a picture, and it automatically spells the word associated with it.
-- Sort a noun present in the text, then a Create a Hunting words game based in the synonyms.
+- Sort a noun present in the text, then creates a Hunting Words game with this word synonyms.
 
 ### Third step
 - Select some texts and books for people to use without cost.
