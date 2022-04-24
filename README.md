@@ -39,3 +39,6 @@ This software goal is to support studying foreign languages with Google Cloud AP
 - https://cloud.google.com/blog/products/gcp/building-an-image-search-application-using-cloud-vision-api (searching images for text excerpts)
 - https://cloud.google.com/translate/docs (Translate text)
 - https://cloud.google.com/vision (Categorizing text)
+
+## To take a look later
+- https://openai.com/blog/openai-api/
