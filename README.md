@@ -42,3 +42,4 @@ This software goal is to support studying foreign languages with Google Cloud AP
 
 ## To take a look later
 - https://openai.com/blog/openai-api/
+- Add a chrome extension, to allow people to use the software into HTML pages.
